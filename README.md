@@ -14,3 +14,4 @@ Flow Steps
 8. Delay - This is added once more to avoid any synchronization issues
 9. Run script fropm Sharepoint Library - Once the information is added to the Excel file, it stays on the Excel file so to prep for the next automated email with new updated information I added a script to Sharepoint to delete the previous data on it, so when the new Excel sheet is emailed it is emailed with new data and does not retain old data. This Completes the automation cycle
    
+![Power Automate Flow](https://github.com/inti864/PowerAutomate-OnPremSQL-Email-Automation/blob/main/2025-05-16%2015_56_43-Clipboard.png?raw=true)

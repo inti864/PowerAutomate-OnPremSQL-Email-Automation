@@ -1,6 +1,10 @@
 Title : PowerAutomate-OnPremSQL-Email-Automation
+
 Description: Workflow using Power Automate to automate email reports to clients
+
 Goal: Client was using an ERP software to manually email reports with status of their order and events, they had several employee's who would email this information manually, but due to human error sometimes they would accidentally send the wrong information to the wrong client. Automating this process helped save manual effort and reduced human error to 0%
+
+
 Tools used: Power Automate, Microsoft SQL Server, Microsoft Gateway, Sharepoint, Outlook
 
 Flow Steps
